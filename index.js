@@ -95,3 +95,15 @@ var today = new Date();
 console.log(typeof(price));
 
 
+var first = 0.1;
+var second = 0.4;
+var total= first + second ;
+console.log(total);
+
+var first = 0.1;
+var second = 0.423;
+var total= first + second ;
+console.log(parseFloat (total.toFixed (2)));
+
+
+
