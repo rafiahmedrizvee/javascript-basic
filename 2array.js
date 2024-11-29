@@ -1,4 +1,4 @@
-var student = ['Rizvee', 'Rafi', 'Roxas', 'Arafat'];
+/* var student = ['Rizvee', 'Rafi', 'Roxas', 'Arafat'];
 //console.log(student.length); //length
 
 var vowel = ['a', 'e', 'i', 'o', 'u']
@@ -33,7 +33,7 @@ mix.pop()
 var mix = ['Rafi', 26, true, 'Chandpur', 'Student',0182440];
 mix.shift();
 //console.log(mix);
-
+ */
 
 
 //console.log(10 > 5);
@@ -56,7 +56,7 @@ var herLove = 100;
 
 
 // is food ready == true // khabo
-
+/* 
 var isFoodReady = true;
 
 if (isFoodReady == true) {
@@ -76,9 +76,9 @@ if (iphone < myBudget) {
 else {
    // console.log('luck kharaf');
 
-}  ///if /else statement
+}  ///if /else statement */
 
-
+/* 
 var jobHolder = false;
 var saveMoney = 150000;
 var hasFlat = true;
@@ -139,10 +139,10 @@ else {
    console.log("batasha diye khamu");
    
 }
-
+ */
 
 //if...else if.. statement.
-
+/* 
 var tourDestination = [ 'coxs bazar','nepal','srilanka','island'];
 if(tourDestination[0] == 'nepal'){
    console.log('Nepal giye pahar dkhbo');
@@ -161,6 +161,8 @@ else{
    console.log('tk nai');
    
 }
+ */
+
 ///if ...else if statement.
 
 
